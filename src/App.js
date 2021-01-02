@@ -1,4 +1,3 @@
-import logo from './logo.svg';
 import List from './List'
 import './App.css';
 

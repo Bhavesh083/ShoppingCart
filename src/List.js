@@ -13,7 +13,7 @@ const handler = (e) =>{
 const addlists =(e)=>{
   e.preventDefault();
     const duplist = [...listArr]
-    if (list!='') {
+    if (list!=='') {
         const details = {
             id:Date.now(),
             active : true,

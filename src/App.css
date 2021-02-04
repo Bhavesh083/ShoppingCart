@@ -2,7 +2,7 @@
   box-sizing: border-box;
 }
 body{
-  background-color: rgb(49, 127, 173);
+  background-color: rgb(255, 255, 255);
   margin: 0;
 }
 .container{
@@ -18,7 +18,7 @@ body{
 }
 .formmain{
   box-sizing: border-box;
-  background-color: crimson;
+  background-color: rgb(250, 110, 110);
   width: 100%;
   height: 16%;
   border: 2px solid black;
